@@ -19,9 +19,8 @@ void print_times_table(int n)
 			_putchar('\n');
 		}
 	}
-	else if (n == 0)
+	else
 	{
-		_putchar('0');
 		_putchar('\n');
 	}
 }
