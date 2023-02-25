@@ -3,7 +3,7 @@
  * Auth: Darijo Tepic
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strcpy - Copies a string pointed to by @src, including the
